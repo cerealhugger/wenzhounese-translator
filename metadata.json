@@ -1,0 +1,8 @@
+
+{
+  "name": "Wenzhounese Translator",
+  "description": "An accessible translator designed for seniors to bridge Wenzhounese (Ou Chinese) and Mandarin. Features a large, thumb-friendly UI and a flashcard system for dialect preservation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
